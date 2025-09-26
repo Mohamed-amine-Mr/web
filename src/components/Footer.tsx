@@ -1,4 +1,4 @@
-import { Phone, Mail, MapPin, MessageCircle, Linkedin } from "lucide-react";
+import { Phone, Mail, MapPin, MessageCircle, Linkedin, Facebook, Instagram } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -36,6 +36,24 @@ const Footer = () => {
                 aria-label="LinkedIn"
               >
                 <Linkedin className="w-5 h-5" />
+              </a>
+              <a 
+                href="https://www.facebook.com/aminemediapro"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-gold/10 hover:bg-gold text-gold hover:text-agency-black p-3 rounded-lg transition-all duration-300"
+                aria-label="Facebook"
+              >
+                <Facebook className="w-5 h-5" />
+              </a>
+              <a 
+                href="https://www.instagram.com/aminemediapro"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-gold/10 hover:bg-gold text-gold hover:text-agency-black p-3 rounded-lg transition-all duration-300"
+                aria-label="Instagram"
+              >
+                <Instagram className="w-5 h-5" />
               </a>
             </div>
           </div>
