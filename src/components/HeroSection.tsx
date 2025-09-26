@@ -89,14 +89,7 @@ const HeroSection = () => {
             </div>
             
             {/* Mobile Trust Indicator */}
-            <div className="mt-8 sm:mt-12 px-4 sm:px-0">
-              <div className="bg-gold/5 backdrop-blur-sm rounded-xl p-4 border border-gold/20 max-w-md mx-auto">
-                <p className="text-premium-white text-sm sm:text-base">
-                  <span className="text-gold font-semibold">🇲🇦 Proudly Moroccan</span> • 
-                  <span className="ml-2">Based in Khouribga</span>
-                </p>
-              </div>
-            </div>
+     
           </div>
         </div>
         
