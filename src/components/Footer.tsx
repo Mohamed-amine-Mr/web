@@ -29,7 +29,7 @@ const Footer = () => {
                 <MessageCircle className="w-5 h-5" />
               </a>
               <a 
-                href="https://ma.linkedin.com/in/mohamedamine-mounir"
+                href="https://www.linkedin.com/company/aminemediapro/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gold/10 hover:bg-gold text-gold hover:text-agency-black p-3 rounded-lg transition-all duration-300"
@@ -38,7 +38,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="https://www.facebook.com/aminemediapro"
+                href="https://www.facebook.com/profile.php?id=61568670276661"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gold/10 hover:bg-gold text-gold hover:text-agency-black p-3 rounded-lg transition-all duration-300"
